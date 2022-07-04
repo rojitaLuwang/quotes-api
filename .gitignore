@@ -1,0 +1,4 @@
+node_modules/*
+*lock.json
+__MACOSX/*
+*/.DS_Store
